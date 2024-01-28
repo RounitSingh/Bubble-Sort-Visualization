@@ -1,6 +1,6 @@
 ## Bubble Sort Visualization
 
-Project link: https://rounitsingh.github.io/Bubble-Sort-Visualization/
+Hosted link: https://rounitsingh.github.io/Bubble-Sort-Visualization/
 
 ![Screenshot 2024-01-18 220922](https://github.com/RounitSingh/Bubble-Sort-Visualization/assets/117521913/b4259a21-c6f2-4bc9-9232-957493f20e40)
 
